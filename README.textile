@@ -1,0 +1,13 @@
+h1. Active Scaffold Sortable Demo
+
+A small demo application to show off active scaffold sortable.
+
+h2. To install and run:
+
+<pre>
+git clone git://github.com/activescaffold/active_scaffold_sortable_demo.git
+cd active_scaffold_sortable_demo
+git submodule update
+rake db:migrate
+script/server
+</pre>
